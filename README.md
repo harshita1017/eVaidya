@@ -56,7 +56,7 @@ The app allows RMPs to schedule an appointment for the patient or the patient ca
 ### Login page
 <img src="https://user-images.githubusercontent.com/72303810/175796630-29dcb6de-28a5-4b34-8c74-ffecb6b4bda8.jpeg" width="700">
 <img src="https://user-images.githubusercontent.com/72303810/175796633-4355d576-2df8-4560-b3f5-08d0d2e7242a.jpeg" width="700">
-<img src="https://user-images.githubusercontent.com/72303810/175796635-44996cd7-c970-496e-832a-ff9d845e8c49.jpeg" width="700">
+<img width="700" alt="Screenshot 2022-11-06 at 10 46 22 AM" src="https://user-images.githubusercontent.com/72303810/200155459-908a3151-f34d-446d-be69-6792fe65a480.png">
 <img src="https://user-images.githubusercontent.com/72303810/175796636-c5cde6af-b686-4295-ae81-09a87e3defe7.jpeg" width="700">
 
 ### Dashboard
