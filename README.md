@@ -67,15 +67,15 @@ The app allows RMPs to schedule an appointment for the patient or the patient ca
 To install and run the project on your local system, following are the requirements:
  - Clone the GitHub repository
 ``` sh
-$ git clone https://github.com/cfgmum22/team-27.git
+$ git clone https://github.com/harshita1017/eVaidya.git 
 ```
- - Change directory to team-27
+ - Change directory to eVaidya
 ``` sh
-$ cd team-27
+$ cd eVaidya
   ```
 - Make sure to install the required dependencies from requirements.txt file
 ``` sh
- pip install -r requirements.txt 
+ pip install -r requirement.txt 
 ```
 - To install additional dependencies run the following commands
 ```
