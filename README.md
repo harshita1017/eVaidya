@@ -30,7 +30,7 @@ Taru Foundation: Telemedication
 
 ## Introduction
 ## Our Aim
-To provide platform to connect RMPs, Patients and Doctors at one stop destination. Our vision is to provide an app for all basic healthcare needs of the rural people. 
+To provide platform to connect Medical Practitioners, Patients and Doctors at one stop destination. Our vision is to provide an app for all basic healthcare needs of the rural people. 
 It is an accessible, free, instant, user-friendly platfrom. Making it a one stop solution for a health platform.
 ## Functionalities
 The app allows RMPs to schedule an appointment for the patient or the patient can schedule it themselves. The patient can access the video chat feature enabled which they can use to interact with the doctors from the comfort of their homes if internet is available or they can go to their local RMP’s office where they provide this service. It renders a hassle-free environment and saves transportation time and the time spent in waiting queues for patients. Here even the doctors can have a look at thier scheduled appointments and also accept, deny, reschedule the appointments.
@@ -43,7 +43,7 @@ The app allows RMPs to schedule an appointment for the patient or the patient ca
   </p> -->
   - *Front End:* HTML, CSS, JS, Bootstrap, jQuery
   - *Back end:* Django, Python
-  - *API:* Agora 
+  - *API:* Microsoft Azure Cognitive Services 
   - *Database:* SQLite
 
 
@@ -62,6 +62,8 @@ The app allows RMPs to schedule an appointment for the patient or the patient ca
 ### Dashboard
 <img src="https://user-images.githubusercontent.com/72303810/175796650-f8cdc8a2-0e8a-45c4-9ed2-a0c570ac1998.jpeg" width="700">
 <img src="https://user-images.githubusercontent.com/72303810/175796654-1076b12d-0516-4809-9442-1f30925c7c16.jpeg" width="700">
+
+### Azure Chat Support
 
 ## Getting started
 To install and run the project on your local system, following are the requirements:
