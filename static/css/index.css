@@ -1,0 +1,124 @@
+.jumbotron {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background-image: url('/static/images/bg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100vw;
+}
+
+.jumbotron h5,
+h3 {
+    text-align: center;
+}
+
+
+.alert {
+    margin: 0px;
+}
+
+.glow {
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    -webkit-animation: glow 1s ease-in-out infinite alternate;
+    -moz-animation: glow 1s ease-in-out infinite alternate;
+    animation: glow 1s ease-in-out infinite alternate;
+}
+
+@keyframes glow {
+    from {
+        text-shadow: 0 0 10px #eeeeee, 0 0 20px #000000, 0 0 30px #000000, 0 0 40px #000000, 0 0 50px #9554b3, 0 0 60px #9554b3, 0 0 70px #9554b3;
+    }
+
+    to {
+        text-shadow: 0 0 20px #eeeeee, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
+    }
+}
+
+.card {
+    margin: 5% 0%;
+}
+
+.card-body {
+    margin: 0% 0% 0% 3%;
+    padding: 6% 0%;
+}
+
+
+
+/* Client Testimonials */
+.section-padding {
+    padding: 20px 0;
+}
+
+.client-testimonial-carousel .owl-dots button {
+    height: 5px;
+    background: #40a8c4 !important;
+    width: 20px;
+    display: inline-block;
+    margin: 5px;
+    transition: 0.2s;
+    border-radius: 2px;
+}
+
+.client-testimonial-carousel button.owl-dot.active {
+    background: #002DBF !important;
+    width: 30px;
+}
+
+.client-testimonial-carousel .owl-dots {
+    text-align: center;
+    margin-top: 25px;
+}
+
+.single-testimonial-item {
+    position: relative;
+    box-shadow: 0 0 2px #d3d3d3;
+    margin: 2px;
+    padding: 20px;
+    font-style: italic;
+    padding-left: 85px;
+}
+
+.single-testimonial-item:before {
+    font-family: "Font Awesome 5 Free";
+    content: "\f10e";
+    font-weight: 900;
+    position: absolute;
+    left: 20px;
+    top: 50%;
+    font-size: 20px;
+    color: #40a8c4;
+    line-height: 30px;
+    margin-top: -15px;
+}
+
+.single-testimonial-item:after {
+    background: #d3d3d3;
+    content: "";
+    height: 70%;
+    left: 60px;
+    position: absolute;
+    top: 10%;
+    width: 1px;
+}
+
+.single-testimonial-item h3 {
+    font-size: 20px;
+    font-style: normal;
+    margin-bottom: 0;
+}
+
+.single-testimonial-item h3 span {
+    display: block;
+    font-size: 12px;
+    font-weight: normal;
+    margin-top: 5px;
+}
+
+.btn-class{
+    padding-right: 20%;
+    padding-left: 20%;
+}
